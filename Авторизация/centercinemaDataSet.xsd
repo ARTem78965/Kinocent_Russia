@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="centercinemaDataSet" targetNamespace="http://tempuri.org/centercinemaDataSet.xsd" xmlns:mstns="http://tempuri.org/centercinemaDataSet.xsd" xmlns="http://tempuri.org/centercinemaDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DBCenterCinema" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DBCenterCinema (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Авторизация.Properties.Settings.GlobalReference.Default.DBCenterCinema" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="bilets_STableAdapter" GeneratorDataComponentClassName="bilets_STableAdapter" Name="bilets_S" UserDataComponentName="bilets_STableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="DBCenterCinema (Settings)" DbObjectName="`centercinema`.`bilets_S`" DbObjectType="StoredProcedure" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                    <CommandText>`centercinema`.`bilets_S`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Номер" DataSetColumn="Номер" />
+              <Mapping SourceColumn="Время" DataSetColumn="Время" />
+              <Mapping SourceColumn="Фильм" DataSetColumn="Фильм" />
+              <Mapping SourceColumn="Зал" DataSetColumn="Зал" />
+              <Mapping SourceColumn="Место" DataSetColumn="Место" />
+              <Mapping SourceColumn="Цена" DataSetColumn="Цена" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="centercinemaDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="centercinemaDataSet" msprop:Generator_UserDSName="centercinemaDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="bilets_S" msprop:Generator_TableClassName="bilets_SDataTable" msprop:Generator_TableVarName="tablebilets_S" msprop:Generator_TablePropName="bilets_S" msprop:Generator_RowDeletingName="bilets_SRowDeleting" msprop:Generator_RowChangingName="bilets_SRowChanging" msprop:Generator_RowEvHandlerName="bilets_SRowChangeEventHandler" msprop:Generator_RowDeletedName="bilets_SRowDeleted" msprop:Generator_UserTableName="bilets_S" msprop:Generator_RowChangedName="bilets_SRowChanged" msprop:Generator_RowEvArgName="bilets_SRowChangeEvent" msprop:Generator_RowClassName="bilets_SRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Номер" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnНомер" msprop:Generator_ColumnPropNameInRow="Номер" msprop:Generator_ColumnPropNameInTable="НомерColumn" msprop:Generator_UserColumnName="Номер" type="xs:int" />
+              <xs:element name="Время" msprop:Generator_ColumnVarNameInTable="columnВремя" msprop:Generator_ColumnPropNameInRow="Время" msprop:Generator_ColumnPropNameInTable="ВремяColumn" msprop:Generator_UserColumnName="Время" type="xs:dateTime" />
+              <xs:element name="Фильм" msprop:Generator_ColumnVarNameInTable="columnФильм" msprop:Generator_ColumnPropNameInRow="Фильм" msprop:Generator_ColumnPropNameInTable="ФильмColumn" msprop:Generator_UserColumnName="Фильм">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Зал" msprop:Generator_ColumnVarNameInTable="columnЗал" msprop:Generator_ColumnPropNameInRow="Зал" msprop:Generator_ColumnPropNameInTable="ЗалColumn" msprop:Generator_UserColumnName="Зал" type="xs:int" />
+              <xs:element name="Место" msprop:Generator_ColumnVarNameInTable="columnМесто" msprop:Generator_ColumnPropNameInRow="Место" msprop:Generator_ColumnPropNameInTable="МестоColumn" msprop:Generator_UserColumnName="Место" type="xs:int" />
+              <xs:element name="Цена" msprop:Generator_ColumnVarNameInTable="columnЦена" msprop:Generator_ColumnPropNameInRow="Цена" msprop:Generator_ColumnPropNameInTable="ЦенаColumn" msprop:Generator_UserColumnName="Цена" type="xs:float" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:bilets_S" />
+      <xs:field xpath="mstns:Номер" />
+      <xs:field xpath="mstns:Место" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,208 @@
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Form1.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Form2.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Авторизация.exe.config
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Авторизация.exe
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Авторизация.pdb
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\BouncyCastle.Crypto.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Google.Protobuf.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\K4os.Compression.LZ4.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\K4os.Hash.xxHash.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\MaterialSkin.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\MySql.Data.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Buffers.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Memory.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Numerics.Vectors.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Ubiety.Dns.Core.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Zstandard.Net.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Google.Protobuf.pdb
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Google.Protobuf.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\K4os.Compression.LZ4.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\K4os.Hash.xxHash.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\MySql.Data.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Buffers.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Memory.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Numerics.Vectors.xml
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.csproj.CopyComplete
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.exe
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.pdb
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Admin.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Client.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Sotrudnik.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.csproj.AssemblyReference.cache
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Bilet_1.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Sotrud_Bilet.resources
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Bilet_Client.resources
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\EnvDTE.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\stdole.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\Microsoft.MSXML.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\RdlCompile.cache
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\RdlCompile.compiled
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Авторизация.exe.config
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Авторизация.exe
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Авторизация.pdb
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\BouncyCastle.Crypto.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Google.Protobuf.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\K4os.Compression.LZ4.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\K4os.Hash.xxHash.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\MaterialSkin.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\MySql.Data.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Buffers.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Memory.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Numerics.Vectors.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Security.Cryptography.Cng.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Ubiety.Dns.Core.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Zstandard.Net.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\EnvDTE.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\stdole.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Microsoft.MSXML.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Google.Protobuf.pdb
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\Google.Protobuf.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\K4os.Compression.LZ4.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\K4os.Hash.xxHash.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\MySql.Data.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Buffers.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Memory.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Numerics.Vectors.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\System.Security.Cryptography.Cng.xml
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.csproj.AssemblyReference.cache
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Admin.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Bilet_Client.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Bilet_1.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Client.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Form1.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Form2.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Sotrudnik.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Sotrud_Bilet.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\RdlCompile.cache
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\RdlCompile.compiled
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.csproj.CoreCompileInputs.cache
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.csproj.CopyComplete
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.exe
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.pdb
+D:\Программирование\C#\ПМ.02\Авторизация\obj\Debug\Авторизация.Reiting.resources
+F:\Курсовые работы\ПМ.02\Киноцент Россия\Авторизация\obj\Debug\Авторизация.Reiting.resources
